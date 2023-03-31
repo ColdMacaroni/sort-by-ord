@@ -1,7 +1,6 @@
 ##
 # no_sort_by_ord.py
 # Sorts input string by the value given by ord(char)
-# Dago
 # 2021-03-31
 
 
